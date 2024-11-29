@@ -57,12 +57,6 @@ pygmentscodefencesguesssyntax = true
     weight = 4
     url = "https://github.com/endormi/www"
 
-[[params.social]]
-    name = "Discord"
-    icon = "fa fa-discord fa-2x"
-    weight = 5
-    url = "https://discord.gg/MSTQKRE"
-
 [languages]
     [languages.en]
         languagename = "EN"
